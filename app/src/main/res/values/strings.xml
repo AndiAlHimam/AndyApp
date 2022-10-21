@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andi App</string>
+    <string name="txthello"> Hallo World </string>
+    <string name="textButton"> Ganti Text Random </string>
+</resources>
